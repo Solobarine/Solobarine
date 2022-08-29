@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I love swimming, just not in water.
 - 
 ## GitHub Ststs:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=solobarine&theme=dark&show_icons=true)
