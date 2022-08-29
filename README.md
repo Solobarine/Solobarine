@@ -9,3 +9,5 @@
 - 
 ## GitHub Ststs:
 ![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=solobarine&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solobarine&layout=compact)](https://github.com/solobarine/github-readme-stats)
