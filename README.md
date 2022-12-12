@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Leaderboard project that sends and recieves data via an API.
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on a banking app using Laravel and Vue.js with MySQL as the database.
+- 🌱 I’m currently learning Ruby and Rails.
 - 👯 I’m looking to collaborate on any project related to Javascript.
 - 💬 Ask me about my past projects and I will be happy to help.
 - 📫 Reach me via my social media handles: [LinkedIn](https://www.linkedin.com/in/solomon-akpuru-17069b241) | [email](wwww.solobarine@gmail.com)
