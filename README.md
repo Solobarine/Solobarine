@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Travel website using Express and React with MongoDB as the database.
+- 🔭 I’m currently working on a Blogs Website using Rails and Postgresql.
 - 🌱 I’m currently learning Rails.
 - 👯 I’m looking to collaborate on any project related to Javascript.
 - 💬 Ask me about my past projects and I will be happy to help.
