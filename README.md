@@ -9,5 +9,5 @@
 ## GitHub Stats:
 ![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=solobarine&theme=synthwave&show_icons=true)
 
-## Most Used Languagess:
+## Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solobarine&layout=compact)](https://github.com/solobarine/github-readme-stats)
