@@ -1,7 +1,7 @@
 
-👋 Hey there, I'm Solomon Akpuru!
+## 👋 Hey there, I'm Solomon Akpuru!
 
-🚀 Full Stack Developer | JavaScript Enthusiast | Tech Explorer
+### 🚀 Full Stack Developer | JavaScript Enthusiast | Tech Explorer
 
 🌐 Crafting interactive and user-centric web applications is my passion. With expertise in both front-end and back-end technologies, I bring ideas to life with seamless functionality and elegant design.
 
