@@ -31,3 +31,4 @@
 
 ## Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solobarine&layout=compact)](https://github.com/solobarine/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=solobarine)](https://github.com/solobarine/github-readme-stats)
