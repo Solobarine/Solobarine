@@ -7,13 +7,13 @@
 
 🛠️ Tech Stack:
 
-🔹 Front-End: React, Vue.js, TypeScript
+🔹 Languages: JavaScript, TypeScript, Ruby, PHP
 
-🔹 Back-End: Laravel, Ruby on Rails
+🔹 Front-End: React, Vue.js, Redux, Pinia
+
+🔹 Back-End: Express, Laravel, Ruby on Rails
 
 🔹 Testing: Cypress, Jest, Capybara, RSpec
-
-🔹 UI/UX: Design-driven development for exceptional user experiences
 
 💡 I thrive on challenges and enjoy diving deep into complex problems. Whether it's creating dynamic user interfaces, architecting scalable APIs, or optimizing database performance, I'm up for the task.
 
