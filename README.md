@@ -23,7 +23,7 @@
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to reach out via email or find me on [LinkedIn](https://www.linkedin.com/in/solomon-akpuru).
 
-- 🌐 Portfolio: https://solly-portfolio.vercel.app
+- 🌐 Portfolio: https://solobarine.netlify.app
 - 📧 Email: solobarine@gmail.com
 
 ## GitHub Stats:
