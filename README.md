@@ -21,8 +21,11 @@
 
 📚 Outside of coding, I'm an avid reader of tech trends, always staying updated with the latest developments. When I'm not immersed in code, you can find me on the basketball court, perfecting my jump shot.
 
-🌟 Let's connect and collaborate on exciting projects! Feel free to reach out via email or find me on [LinkedIn](https://www.linkedin.com/in/solomon-akpuru).
+🌟 If you want to bring an idea to life or you need a Developer, Feel free to reach out via email or find me on: 
 
+- LinkedIn: https://www.linkedin.com/in/solomon-akpuru
+- Contra: https://contra.com/solomon_akpuru
+- Upwork: https://www.upwork.com/freelancers/~01d7b0469a7602559b
 - 🌐 Portfolio: https://solobarine.netlify.app
 - 📧 Email: solobarine@gmail.com
 
