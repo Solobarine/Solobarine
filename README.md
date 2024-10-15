@@ -24,8 +24,6 @@
 🌟 If you want to bring an idea to life or you need a Developer, Feel free to reach out via email or find me on: 
 
 - LinkedIn: https://www.linkedin.com/in/solomon-akpuru
-- Contra: https://contra.com/solomon_akpuru
-- Upwork: https://www.upwork.com/freelancers/~01d7b0469a7602559b
 - 🌐 Portfolio: https://solobarine.netlify.app
 - 📧 Email: solobarine@gmail.com
 
