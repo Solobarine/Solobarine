@@ -1,34 +1,31 @@
+# 💫 About Me
 
-## 👋 Hey there, I'm Solomon Akpuru!
+##👋 **Greetings! I'm Solomon Akpuru**  
 
-### 🚀 Full Stack Developer | JavaScript Enthusiast | Tech Explorer
+## **Senior Full Stack Developer | Software Engineer**
 
-🌐 Crafting interactive and user-centric web applications is my passion. With expertise in both front-end and back-end technologies, I bring ideas to life with seamless functionality and elegant design.
+I specialize in architecting, developing, and deploying cutting-edge, scalable, and high-performance web applications that push boundaries.
 
-🛠️ Tech Stack:
+My expertise spans both front-end and back-end architectures, with a strong focus on delivering robust, user-centric solutions that consistently exceed expectations.
 
-🔹 Languages: JavaScript, TypeScript, Ruby, PHP
+I'm passionate about solving complex technical challenges and thrive in environments that demand innovation, clean architecture, and elegant code.
 
-🔹 Front-End: React, Vue.js, Redux, Pinia
+I'm also an active contributor to the open-source community, believing deeply in the power of collaborative development and knowledge sharing.
 
-🔹 Back-End: Express, Laravel, Ruby on Rails
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solomon-akpuru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SolomonAkpuru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solobarine@gmail.com)
 
-🔹 Testing: Cypress, Jest, Capybara, RSpec
+# 💻 Tech Stack:
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Solobarine&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Solobarine&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Solobarine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💡 I thrive on challenges and enjoy diving deep into complex problems. Whether it's creating dynamic user interfaces, architecting scalable APIs, or optimizing database performance, I'm up for the task.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Solobarine&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🔧 Writing clean, efficient code is my forte, and I'm equally adept at testing it. My PHP and Ruby skills allow me to ensure rock-solid functionality, and I'm familiar with testing frameworks like Cypress, Jest, Capybara, and RSpec.
+---
+[![](https://visitcount.itsvg.in/api?id=Solobarine&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📚 Outside of coding, I'm an avid reader of tech trends, always staying updated with the latest developments. When I'm not immersed in code, you can find me on the basketball court, perfecting my jump shot.
-
-🌟 If you want to bring an idea to life or you need a Developer, Feel free to reach out via email or find me on: 
-
-- LinkedIn: https://www.linkedin.com/in/solomon-akpuru
-- 🌐 Portfolio: https://solobarine.netlify.app
-- 📧 Email: solobarine@gmail.com
-
-## GitHub Stats:
-![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=solobarine&theme=synthwave&show_icons=true)
-
-## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solobarine&layout=compact)](https://github.com/solobarine/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
