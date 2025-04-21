@@ -1,6 +1,6 @@
 # 💫 About Me
 
-##👋 **Greetings! I'm Solomon Akpuru**  
+## 👋 **Greetings! I'm Solomon Akpuru**  
 
 ## **Senior Full Stack Developer | Software Engineer**
 
