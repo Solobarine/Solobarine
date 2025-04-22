@@ -2,7 +2,7 @@
 
 ## 👋 **Greetings! I'm Solomon Akpuru**  
 
-## **Senior Full Stack Developer | Software Engineer**
+## **Full Stack Developer | Software Engineer**
 
 I specialize in architecting, developing, and deploying cutting-edge, scalable, and high-performance web applications that push boundaries.
 
